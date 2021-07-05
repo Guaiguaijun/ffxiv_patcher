@@ -37,7 +37,7 @@ Downloading 137 patches...
 Due to how FFXIV's patcher works, you will need to **manually** move the patches over one-by-one for each patch it attempts to download.
 
 
-1. Start the FFXIV Launcehr and begin downloading the patch.
+1. Start the FFXIV Launcher and begin downloading the patch.
 2. Cancel the download after a few seconds.
 3. On your PC, go to `Documents\My Games\FINAL FANTASY XIV - A Realm Reborn\downloads\ffxivpatch`
 4. Go into the folder for the expansion the patch is for (see above on how to get that)
